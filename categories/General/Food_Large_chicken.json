@@ -1,0 +1,28 @@
+{
+    "uniqueID": "Large_chicken",
+    "displayName": "&fLarge chicken",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "apple",
+    "headTexture": "",
+    "customModelData": 30183,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 2.8110185,
+    "hunger": 2.27,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            " c ",
+            "cfc",
+            " c "
+        ],
+        "materials": {
+            "c": "Carrot",
+            "f": "Chicken"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

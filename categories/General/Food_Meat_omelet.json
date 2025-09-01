@@ -1,0 +1,28 @@
+{
+    "uniqueID": "Meat_omelet",
+    "displayName": "&fMeat omelet",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "eggplant",
+    "headTexture": "",
+    "customModelData": 30205,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 0.19385035,
+    "hunger": 0.1825,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            " e ",
+            "mem",
+            " e "
+        ],
+        "materials": {
+            "e": "Egg",
+            "m": "Meat"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

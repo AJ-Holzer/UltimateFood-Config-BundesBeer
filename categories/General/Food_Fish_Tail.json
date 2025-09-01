@@ -1,0 +1,28 @@
+{
+    "uniqueID": "Fish_Tail",
+    "displayName": "&fFish Tail",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "apple",
+    "headTexture": "",
+    "customModelData": 30137,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 1.1249012,
+    "hunger": 1.62,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            " x ",
+            "xyx",
+            " x "
+        ],
+        "materials": {
+            "x": "Banana",
+            "y": "Berry"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "uniqueID": "Chocolate_bar",
+    "displayName": "&fChocolate bar",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30084,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 1.745517,
+    "hunger": 1.575,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "bcb",
+            "ddd",
+            "eee"
+        ],
+        "materials": {
+            "x": "AIR",
+            "b": "COCOA BEANS",
+            "c": "MILK",
+            "d": "SUGAR",
+            "e": "AIR"
+        },
+        "no-order": false,
+        "craft_amount": 1
+    }
+}

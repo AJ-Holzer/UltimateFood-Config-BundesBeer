@@ -1,0 +1,28 @@
+{
+    "uniqueID": "Meat_sandwich",
+    "displayName": "&fMeat sandwich",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "apple",
+    "headTexture": "",
+    "customModelData": 30206,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 1.2208419,
+    "hunger": 1.06,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            " b ",
+            "mmm",
+            " b "
+        ],
+        "materials": {
+            "b": "Bread",
+            "m": "Meat"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

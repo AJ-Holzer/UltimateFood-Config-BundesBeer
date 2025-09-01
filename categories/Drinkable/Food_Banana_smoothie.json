@@ -1,0 +1,31 @@
+{
+    "uniqueID": "Banana_smoothie",
+    "displayName": "&fBanana smoothie",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30023,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 1.1738602,
+    "hunger": 1.005,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "sbm",
+            "xcx",
+            "xxx"
+        ],
+        "materials": {
+            "x": "AIR",
+            "b": "Banana",
+            "c": "POTION",
+            "m": "MILK",
+            "s": "SUGAR"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "uniqueID": "Homemade_bread",
+    "displayName": "&fHomemade bread",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "bread",
+    "headTexture": "",
+    "customModelData": 30165,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 1.7569622,
+    "hunger": 1.92,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "www",
+            "www",
+            "www"
+        ],
+        "materials": {
+            "w": "Wheat"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

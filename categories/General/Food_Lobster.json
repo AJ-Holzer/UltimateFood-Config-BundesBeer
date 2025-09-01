@@ -1,0 +1,28 @@
+{
+    "uniqueID": "Lobster",
+    "displayName": "&fLobster",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "apple",
+    "headTexture": "",
+    "customModelData": 30195,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 2.8880777,
+    "hunger": 2.1575,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            " l ",
+            "lsl",
+            " l "
+        ],
+        "materials": {
+            "l": "Lemon",
+            "s": "Seafood"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

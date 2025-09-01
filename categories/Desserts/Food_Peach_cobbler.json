@@ -1,0 +1,31 @@
+{
+    "uniqueID": "Peach_cobbler",
+    "displayName": "&fPeach cobbler",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30237,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 0.17808273,
+    "hunger": 0.1975,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "bcb",
+            "cdc",
+            "ced"
+        ],
+        "materials": {
+            "x": "AIR",
+            "b": "Peach",
+            "c": "SUGAR",
+            "d": "BREAD",
+            "e": "MILK"
+        },
+        "no-order": false,
+        "craft_amount": 1
+    }
+}

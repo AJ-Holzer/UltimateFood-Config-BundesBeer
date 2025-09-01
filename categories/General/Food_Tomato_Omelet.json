@@ -1,0 +1,28 @@
+{
+    "uniqueID": "Tomato_Omelet",
+    "displayName": "&fTomato Omelet",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30348,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 0.205476,
+    "hunger": 0.2025,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "ttt",
+            "eee",
+            "ttt"
+        ],
+        "materials": {
+            "t": "Tomato",
+            "e": "Egg"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

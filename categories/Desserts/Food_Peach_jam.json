@@ -1,0 +1,31 @@
+{
+    "uniqueID": "Peach_jam",
+    "displayName": "&fPeach jam",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30240,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 1.9160998,
+    "hunger": 1.44,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "bcd",
+            "ecd",
+            "ddd"
+        ],
+        "materials": {
+            "x": "AIR",
+            "b": "Peach",
+            "c": "SUGAR",
+            "d": "AIR",
+            "e": "Peach"
+        },
+        "no-order": false,
+        "craft_amount": 1
+    }
+}

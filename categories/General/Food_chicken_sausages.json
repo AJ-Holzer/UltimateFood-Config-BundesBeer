@@ -1,0 +1,27 @@
+{
+    "uniqueID": "chicken_sausages",
+    "displayName": "&fchicken sausages",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30079,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 2.0180478,
+    "hunger": 1.77,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            " c ",
+            "ccc",
+            " c "
+        ],
+        "materials": {
+            "c": "Chicken_breast"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "uniqueID": "default_sausage",
+    "displayName": "&fdefault sausage",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30119,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 2.1406307,
+    "hunger": 1.61,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "bbb",
+            "sss",
+            "bbb"
+        ],
+        "materials": {
+            "b": "Bread",
+            "s": "chicken_sausages"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "uniqueID": "Soup",
+    "displayName": "&fSoup",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30316,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 1.2719171,
+    "hunger": 1.55,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "ccc",
+            "bpb",
+            "ccc"
+        ],
+        "materials": {
+            "c": "Carrot",
+            "b": "Brocoli",
+            "p": "Potato"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

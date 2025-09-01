@@ -1,0 +1,31 @@
+{
+    "uniqueID": "Cake_with_chocolate",
+    "displayName": "&fCake with chocolate",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30049,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 1.6234736,
+    "hunger": 1.485,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "bcb",
+            "ded",
+            "ecx"
+        ],
+        "materials": {
+            "x": "AIR",
+            "b": "COCOA BEANS",
+            "c": "MILK",
+            "d": "SUGAR",
+            "e": "WHEAT"
+        },
+        "no-order": true,
+        "craft_amount": 1
+    }
+}

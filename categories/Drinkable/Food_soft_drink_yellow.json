@@ -1,0 +1,28 @@
+{
+    "uniqueID": "soft_drink_yellow",
+    "displayName": "&fsoft drink yellow",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30315,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 0.94120264,
+    "hunger": 1.205,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            " y ",
+            "yby",
+            " y "
+        ],
+        "materials": {
+            "y": "Banana",
+            "b": "GLASS_BOTTLE"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

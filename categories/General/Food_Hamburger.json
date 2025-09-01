@@ -1,0 +1,29 @@
+{
+    "uniqueID": "Hamburger",
+    "displayName": "&fHamburger",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "apple",
+    "headTexture": "",
+    "customModelData": 30164,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 0.58578527,
+    "hunger": 0.52,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            " b ",
+            "php",
+            " b "
+        ],
+        "materials": {
+            "b": "Bread",
+            "p": "Pepper",
+            "h": "Ham"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

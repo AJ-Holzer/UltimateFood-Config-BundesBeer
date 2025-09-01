@@ -1,0 +1,27 @@
+{
+    "uniqueID": "Cheese",
+    "displayName": "&fCheese",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30059,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 2.8889935,
+    "hunger": 2.26,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "mmm",
+            "mmm",
+            "mmm"
+        ],
+        "materials": {
+            "m": "Milk_bottle"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

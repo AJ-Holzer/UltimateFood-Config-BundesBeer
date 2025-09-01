@@ -1,0 +1,30 @@
+{
+    "uniqueID": "cherry_smoothie",
+    "displayName": "&fcherry smoothie",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30071,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 0.49234188,
+    "hunger": 0.48,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "scx",
+            "xbx",
+            "xxx"
+        ],
+        "materials": {
+            "x": "AIR",
+            "c": "Cherry",
+            "b": "POTION",
+            "s": "SUGAR"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

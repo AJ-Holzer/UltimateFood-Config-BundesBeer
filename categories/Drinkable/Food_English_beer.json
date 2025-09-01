@@ -1,0 +1,29 @@
+{
+    "uniqueID": "English_beer",
+    "displayName": "&fEnglish beer",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30133,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 2.3473928,
+    "hunger": 2.05,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "xgx",
+            "gbg",
+            "ggg"
+        ],
+        "materials": {
+            "x": "AIR",
+            "g": "WHEAT",
+            "b": "POTION"
+        },
+        "no-shape": false,
+        "craft_amount": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "uniqueID": "Cherry_dessert_2",
+    "displayName": "&fCherry dessert 2",
+    "description": [],
+    "instantEat": false,
+    "foodMaterial": "APPLE",
+    "headTexture": "",
+    "customModelData": 30070,
+    "permission": "",
+    "price": 0.0,
+    "saturation": 1.0218456,
+    "hunger": 1.035,
+    "health": 0.0,
+    "commands": [],
+    "recipe": {
+        "shape": [
+            "bcb",
+            "cdc",
+            "eex"
+        ],
+        "materials": {
+            "x": "AIR",
+            "b": "Cherry",
+            "c": "BREAD",
+            "d": "SUGAR",
+            "e": "AIR"
+        },
+        "no-order": true,
+        "craft_amount": 1
+    }
+}
