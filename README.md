@@ -6,4 +6,4 @@ This is the config for the [UltimateFoods](https://www.spigotmc.org/resources/âœ
 
 ## Discord-Server
 
-Join [BundesBeer](https://discord.gg/BZzcgwAX6G) on Discord
+Join [BundesBeer](https://discord.gg/bier) on Discord
