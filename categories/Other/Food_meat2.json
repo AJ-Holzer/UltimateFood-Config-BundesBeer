@@ -14,12 +14,12 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "mmm",
+            "mm ",
+            "mmm"
         ],
         "materials": {
-            "x": "AIR"
+            "m": "MEAT"
         },
         "no-shape": false,
         "craft_amount": 1

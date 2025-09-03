@@ -14,12 +14,13 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "lll",
+            "b b",
+            "bbb"
         ],
         "materials": {
-            "x": "AIR"
+            "l": "lemon",
+            "b": "bread_slices"
         },
         "no-shape": false,
         "craft_amount": 1

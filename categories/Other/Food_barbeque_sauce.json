@@ -14,12 +14,15 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "ttt",
+            "sbs",
+            "ooo"
         ],
         "materials": {
-            "x": "AIR"
+            "t": "Tomato",
+            "s": "SUGAR",
+            "b": "BOWL",
+            "o": "Onion"
         },
         "no-shape": false,
         "craft_amount": 1

@@ -14,12 +14,15 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "ttt",
+            "bcb",
+            "sss"
         ],
         "materials": {
-            "x": "AIR"
+            "t": "Tortilla",
+            "b": "Beef",
+            "c": "Cheese",
+            "s": "Salsa"
         },
         "no-shape": false,
         "craft_amount": 1

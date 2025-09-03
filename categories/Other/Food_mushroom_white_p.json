@@ -14,12 +14,14 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "xyx",
+            "yzy",
+            "xyx"
         ],
         "materials": {
-            "x": "AIR"
+            "x": "Mushroom",
+            "y": "Milk_Bucket",
+            "z": "Sugar"
         },
         "no-shape": false,
         "craft_amount": 1

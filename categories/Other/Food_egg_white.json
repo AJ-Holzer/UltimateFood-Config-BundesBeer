@@ -14,14 +14,14 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            " w ",
+            "www",
+            " w "
         ],
         "materials": {
-            "x": "AIR"
+            "w": "Egg"
         },
         "no-shape": false,
-        "craft_amount": 1
+        "craft_amount": 3
     }
 }

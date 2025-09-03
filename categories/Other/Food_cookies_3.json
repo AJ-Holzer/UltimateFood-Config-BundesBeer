@@ -14,14 +14,14 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "c c",
+            " c ",
+            "c c"
         ],
         "materials": {
-            "x": "AIR"
+            "c": "Cocoa_Beans"
         },
         "no-shape": false,
-        "craft_amount": 1
+        "craft_amount": 3
     }
 }

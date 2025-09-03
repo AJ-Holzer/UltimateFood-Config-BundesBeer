@@ -14,12 +14,13 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "ggg",
+            "gsg",
+            "ggg"
         ],
         "materials": {
-            "x": "AIR"
+            "g": "GLASS",
+            "s": "NETHER_STAR"
         },
         "no-shape": false,
         "craft_amount": 1

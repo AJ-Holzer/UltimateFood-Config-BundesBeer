@@ -14,12 +14,13 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            " e ",
+            " f ",
+            "   "
         ],
         "materials": {
-            "x": "AIR"
+            "e": "Egg",
+            "f": "Cooking_Oil"
         },
         "no-shape": false,
         "craft_amount": 1

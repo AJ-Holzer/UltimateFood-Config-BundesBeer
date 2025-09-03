@@ -14,12 +14,14 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "asa",
+            "sbs",
+            "asa"
         ],
         "materials": {
-            "x": "AIR"
+            "a": "WHEAT",
+            "s": "SUGAR",
+            "b": "MILK_BUCKET"
         },
         "no-shape": false,
         "craft_amount": 1

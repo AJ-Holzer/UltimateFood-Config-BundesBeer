@@ -14,12 +14,13 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "sss",
+            "sbs",
+            "sss"
         ],
         "materials": {
-            "x": "AIR"
+            "s": "SUGAR",
+            "b": "Berry"
         },
         "no-shape": false,
         "craft_amount": 1

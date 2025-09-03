@@ -14,12 +14,15 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "www",
+            "bmb",
+            "sss"
         ],
         "materials": {
-            "x": "AIR"
+            "w": "WHEAT",
+            "b": "BOWL",
+            "m": "MILK_BUCKET",
+            "s": "Sugar"
         },
         "no-shape": false,
         "craft_amount": 1

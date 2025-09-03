@@ -14,12 +14,13 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            " g ",
+            "gwg",
+            " g "
         ],
         "materials": {
-            "x": "AIR"
+            "g": "Grape",
+            "w": "Water_Bottle"
         },
         "no-shape": false,
         "craft_amount": 1

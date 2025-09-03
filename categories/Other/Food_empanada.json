@@ -14,12 +14,13 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            " b ",
+            "bfb",
+            " b "
         ],
         "materials": {
-            "x": "AIR"
+            "b": "Bread",
+            "f": "Beef"
         },
         "no-shape": false,
         "craft_amount": 1

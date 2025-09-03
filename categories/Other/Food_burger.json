@@ -14,12 +14,14 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "bbb",
+            "mmm",
+            "ttt"
         ],
         "materials": {
-            "x": "AIR"
+            "b": "BREAD",
+            "m": "Cooked_Beef",
+            "t": "Tomato"
         },
         "no-shape": false,
         "craft_amount": 1

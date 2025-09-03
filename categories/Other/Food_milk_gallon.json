@@ -15,11 +15,12 @@
     "recipe": {
         "shape": [
             "xxx",
-            "xxx",
+            "xyx",
             "xxx"
         ],
         "materials": {
-            "x": "AIR"
+            "x": "Milk_Bucket",
+            "y": "Bucket"
         },
         "no-shape": false,
         "craft_amount": 1

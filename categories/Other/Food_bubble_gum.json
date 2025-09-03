@@ -14,14 +14,15 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "sss",
+            "sps",
+            "sss"
         ],
         "materials": {
-            "x": "AIR"
+            "s": "SUGAR",
+            "p": "Pink_Watermelon"
         },
         "no-shape": false,
-        "craft_amount": 1
+        "craft_amount": 2
     }
 }
