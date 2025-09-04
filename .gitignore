@@ -17,3 +17,4 @@ __pycache__/
 /dist/
 /storage/
 /get_fruits_ids.py
+/mark_invalid.py
