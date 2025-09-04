@@ -14,12 +14,12 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "mmm",
+            "   ",
+            "   "
         ],
         "materials": {
-            "x": "AIR"
+            "m": "White_Cheese_P"
         },
         "no-shape": false,
         "craft_amount": 1

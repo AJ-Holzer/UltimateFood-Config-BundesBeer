@@ -14,12 +14,15 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            " t ",
+            "pop",
+            " g "
         ],
         "materials": {
-            "x": "AIR"
+            "t": "Tomato",
+            "p": "Pepper",
+            "o": "Onion",
+            "g": "Garlic"
         },
         "no-shape": false,
         "craft_amount": 1

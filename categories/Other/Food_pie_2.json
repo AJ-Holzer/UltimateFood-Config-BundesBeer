@@ -14,12 +14,15 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            " f ",
+            "bcb",
+            " s "
         ],
         "materials": {
-            "x": "AIR"
+            "f": "Berry",
+            "b": "Wheat",
+            "c": "Carrot",
+            "s": "Sugar"
         },
         "no-shape": false,
         "craft_amount": 1

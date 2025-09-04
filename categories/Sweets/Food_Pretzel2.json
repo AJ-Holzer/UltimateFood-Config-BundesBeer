@@ -14,12 +14,12 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            " w ",
+            "www",
+            " w "
         ],
         "materials": {
-            "x": "AIR"
+            "w": "Wheat"
         },
         "no-shape": false,
         "craft_amount": 1

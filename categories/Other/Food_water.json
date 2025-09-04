@@ -14,12 +14,12 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "   ",
+            " w ",
+            "   "
         ],
         "materials": {
-            "x": "AIR"
+            "w": "Water_Bottle"
         },
         "no-shape": false,
         "craft_amount": 1

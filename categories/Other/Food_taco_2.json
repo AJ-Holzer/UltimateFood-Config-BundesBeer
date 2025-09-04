@@ -14,12 +14,15 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            " c ",
+            "mtp",
+            "   "
         ],
         "materials": {
-            "x": "AIR"
+            "c": "Cabagge",
+            "m": "Meat",
+            "t": "Tomato",
+            "p": "Pepper"
         },
         "no-shape": false,
         "craft_amount": 1

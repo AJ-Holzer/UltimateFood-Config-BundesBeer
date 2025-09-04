@@ -14,12 +14,12 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "b b",
+            "bbb",
+            "b b"
         ],
         "materials": {
-            "x": "AIR"
+            "b": "Banana"
         },
         "no-shape": false,
         "craft_amount": 1

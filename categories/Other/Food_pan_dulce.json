@@ -14,12 +14,14 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            " s ",
+            "wfw",
+            " s "
         ],
         "materials": {
-            "x": "AIR"
+            "s": "Sugar",
+            "w": "Wheat",
+            "f": "Edible_Flower"
         },
         "no-shape": false,
         "craft_amount": 1

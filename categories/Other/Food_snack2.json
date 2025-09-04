@@ -14,12 +14,14 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            " c ",
+            "ptp",
+            " c "
         ],
         "materials": {
-            "x": "AIR"
+            "c": "Cucumber",
+            "p": "Pepper",
+            "t": "Tomato"
         },
         "no-shape": false,
         "craft_amount": 1

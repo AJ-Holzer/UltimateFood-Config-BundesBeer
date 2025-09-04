@@ -14,12 +14,12 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "xxx",
-            "xxx",
-            "xxx"
+            "   ",
+            " a ",
+            "   "
         ],
         "materials": {
-            "x": "AIR"
+            "a": "Apple"
         },
         "no-shape": false,
         "craft_amount": 1
