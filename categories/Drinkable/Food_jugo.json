@@ -19,7 +19,7 @@
             "fff"
         ],
         "materials": {
-            "f": "Fruit",
+            "f": Berry,
             "b": "GLASS_BOTTLE"
         },
         "no-shape": false,
