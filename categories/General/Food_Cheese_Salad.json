@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30062,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 1.4998523,
     "hunger": 1.3725,
     "health": 0.0,
@@ -15,13 +15,12 @@
     "recipe": {
         "shape": [
             " c ",
-            "blb",
+            "b b",
             " g "
         ],
         "materials": {
             "c": "Cheese",
             "b": "Brocoli",
-            "l": "Lettuce",
             "g": "Green_apple"
         },
         "no-shape": false,

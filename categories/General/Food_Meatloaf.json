@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30203,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 2.738538,
     "hunger": 2.06,
     "health": 0.0,
@@ -19,8 +19,8 @@
             "bbb"
         ],
         "materials": {
-            "b": "Beef",
-            "m": "Mushroom",
+            "b": "COOKED_BEEF",
+            "m": "Mushrooms",
             "a": "Apple"
         },
         "no-shape": false,

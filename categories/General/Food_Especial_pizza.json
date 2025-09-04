@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30134,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 1.8387539,
     "hunger": 1.55,
     "health": 0.0,
@@ -16,18 +16,17 @@
         "shape": [
             "abc",
             "def",
-            "ghi"
+            "gh "
         ],
         "materials": {
             "a": "Tomato",
             "b": "Cheese",
             "c": "Pepper",
-            "d": "Mushroom",
+            "d": "Mushrooms",
             "e": "Bread",
             "f": "Onion",
             "g": "Cherry",
-            "h": "Garlic",
-            "i": "Basil"
+            "h": "Garlic"
         },
         "no-shape": false,
         "craft_amount": 1

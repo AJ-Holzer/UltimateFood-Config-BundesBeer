@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30125,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 1.1755441,
     "hunger": 2.01,
     "health": 0.0,
@@ -15,12 +15,11 @@
     "recipe": {
         "shape": [
             "xxx",
-            "xex",
+            "xxx",
             "xxx"
         ],
         "materials": {
-            "x": "AIR",
-            "e": "Chicken_egg"
+            "x": "AIR"
         },
         "no-shape": false,
         "craft_amount": 1

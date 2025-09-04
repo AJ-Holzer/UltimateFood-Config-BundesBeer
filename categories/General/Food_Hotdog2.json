@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30169,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 0.8622482,
     "hunger": 0.7725,
     "health": 0.0,
@@ -20,7 +20,7 @@
         ],
         "materials": {
             "b": "Bread",
-            "s": "Sausage"
+            "s": "sausage"
         },
         "no-shape": false,
         "craft_amount": 1

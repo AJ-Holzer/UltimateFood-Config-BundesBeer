@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30353,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 1.5654122,
     "hunger": 1.53,
     "health": 0.0,
@@ -20,7 +20,7 @@
         ],
         "materials": {
             "s": "Seaweed",
-            "r": "Rice"
+            "r": "Rice_Bowl"
         },
         "no-shape": false,
         "craft_amount": 1

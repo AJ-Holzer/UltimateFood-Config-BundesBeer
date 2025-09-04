@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30075,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 1.3450503,
     "hunger": 1.0775,
     "health": 0.0,
@@ -19,7 +19,7 @@
             " c "
         ],
         "materials": {
-            "c": "Raw_Chicken"
+            "c": "CHICKEN"
         },
         "no-shape": false,
         "craft_amount": 1

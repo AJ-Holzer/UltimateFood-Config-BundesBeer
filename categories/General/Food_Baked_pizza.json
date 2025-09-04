@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30015,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 1.5752631,
     "hunger": 1.4725,
     "health": 0.0,
@@ -19,7 +19,7 @@
             " c "
         ],
         "materials": {
-            "f": "Flour",
+            "f": "fluor",
             "t": "Tomato",
             "c": "Cheese"
         },

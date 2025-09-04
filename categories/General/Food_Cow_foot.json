@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30104,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 2.3649364,
     "hunger": 2.01,
     "health": 0.0,
@@ -19,7 +19,7 @@
             " c "
         ],
         "materials": {
-            "c": "BEEF"
+            "c": "COOKED_BEEF"
         },
         "no-shape": false,
         "craft_amount": 1

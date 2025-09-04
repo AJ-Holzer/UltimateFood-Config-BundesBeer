@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30248,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 1.6374714,
     "hunger": 1.3325,
     "health": 0.0,
@@ -20,7 +20,7 @@
         ],
         "materials": {
             "s": "sugar",
-            "c": "Cola_essence",
+            "c": "coffee_bag",
             "b": "GLASS_BOTTLE"
         },
         "no-shape": false,

@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30040,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 0.9203802,
     "hunger": 0.99,
     "health": 0.0,
@@ -19,7 +19,7 @@
             " f "
         ],
         "materials": {
-            "f": "Flour",
+            "f": "fluor",
             "b": "Brocoli",
             "c": "Carrot"
         },

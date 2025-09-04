@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30337,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 0.56718606,
     "hunger": 0.5625,
     "health": 0.0,
@@ -20,7 +20,7 @@
         ],
         "materials": {
             "c": "Cheese",
-            "b": "Beef",
+            "b": "COOKED_BEEF",
             "p": "Pepper",
             "t": "Tortilla"
         },

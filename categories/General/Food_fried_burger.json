@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30142,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 1.3000389,
     "hunger": 1.2475,
     "health": 0.0,
@@ -15,12 +15,11 @@
     "recipe": {
         "shape": [
             " b ",
-            "pep",
+            "p p",
             " c "
         ],
         "materials": {
             "b": "Bread",
-            "e": "Bgg",
             "p": "Pepper",
             "c": "Carrot"
         },

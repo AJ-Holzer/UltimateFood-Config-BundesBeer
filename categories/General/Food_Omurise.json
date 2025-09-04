@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30226,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 2.0231519,
     "hunger": 1.99,
     "health": 0.0,
@@ -19,8 +19,8 @@
             "eee"
         ],
         "materials": {
-            "e": "Eggplant",
-            "r": "Rice",
+            "e": "eggplant",
+            "r": "Rice_Bowl",
             "a": "Avocado"
         },
         "no-shape": false,

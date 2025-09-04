@@ -1,13 +1,13 @@
 {
-    "uniqueID": "Fried_Rice",
-    "displayName": "&fFried Rice",
+    "uniqueID": "Fried_Rice_Bowl",
+    "displayName": "&fFried Rice_Bowl",
     "description": [],
     "instantEat": false,
     "foodMaterial": "apple",
     "headTexture": "",
     "customModelData": 30143,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 2.595159,
     "hunger": 2.11,
     "health": 0.0,
@@ -19,10 +19,10 @@
             "rgr"
         ],
         "materials": {
-            "r": "Rice",
+            "r": "Rice_Bowl",
             "g": "Garlic",
             "b": "Brocoli",
-            "f": "Eggplant"
+            "f": "eggplant"
         },
         "no-shape": false,
         "craft_amount": 1

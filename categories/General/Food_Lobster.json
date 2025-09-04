@@ -7,20 +7,19 @@
     "headTexture": "",
     "customModelData": 30195,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 2.8880777,
     "hunger": 2.1575,
     "health": 0.0,
     "commands": [],
     "recipe": {
         "shape": [
-            " l ",
-            "lsl",
-            " l "
+            "xxx",
+            "xxx",
+            "xxx"
         ],
         "materials": {
-            "l": "Lemon",
-            "s": "Seafood"
+            "x": "AIR"
         },
         "no-shape": false,
         "craft_amount": 1

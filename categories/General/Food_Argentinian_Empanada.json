@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30011,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 1.5190892,
     "hunger": 1.325,
     "health": 0.0,
@@ -19,7 +19,7 @@
             " f "
         ],
         "materials": {
-            "f": "Flour",
+            "f": "fluor",
             "c": "Carrot",
             "p": "Pepper"
         },

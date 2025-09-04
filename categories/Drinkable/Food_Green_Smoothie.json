@@ -7,7 +7,7 @@
     "headTexture": "",
     "customModelData": 30160,
     "permission": "",
-    "price": 0.0,
+    "pRice_Bowl": 0.0,
     "saturation": 0.25747243,
     "hunger": 0.31,
     "health": 0.0,
@@ -15,13 +15,12 @@
     "recipe": {
         "shape": [
             "cgc",
-            "sms",
+            " m ",
             " b "
         ],
         "materials": {
             "c": "Cucumber",
             "g": "Green_apple",
-            "s": "Spinach",
             "m": "MILK_BUCKET",
             "b": "GLASS_BOTTLE"
         },
