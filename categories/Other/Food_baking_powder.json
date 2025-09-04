@@ -20,7 +20,7 @@
         ],
         "materials": {
             "a": "WHEAT",
-            "s": "SUGAR",
+            "s": "sugar",
             "b": "MILK_BUCKET"
         },
         "no-shape": false,

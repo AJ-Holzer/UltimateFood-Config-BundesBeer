@@ -21,7 +21,7 @@
         "materials": {
             "s": "Strawberry",
             "m": "Milk_Bucket",
-            "w": "Sugar"
+            "w": "sugar"
         },
         "no-shape": false,
         "craft_amount": 1

@@ -21,7 +21,7 @@
         "materials": {
             "b": "Blueberry",
             "w": "Water_Bottle",
-            "s": "Sugar"
+            "s": "sugar"
         },
         "no-shape": false,
         "craft_amount": 1

@@ -20,7 +20,7 @@
         ],
         "materials": {
             "x": "Honey_Bottle",
-            "y": "Sugar",
+            "y": "sugar",
             "z": "Apple"
         },
         "no-shape": false,

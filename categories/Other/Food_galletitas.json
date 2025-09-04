@@ -20,7 +20,7 @@
         ],
         "materials": {
             "f": "Flour",
-            "s": "Sugar"
+            "s": "sugar"
         },
         "no-shape": false,
         "craft_amount": 4

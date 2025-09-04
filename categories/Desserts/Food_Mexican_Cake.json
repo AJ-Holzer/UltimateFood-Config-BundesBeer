@@ -23,7 +23,7 @@
             "b": "BREAD",
             "c": "COCOA BEANS",
             "d": "AIR",
-            "e": "SUGAR"
+            "e": "sugar"
         },
         "no-order": true,
         "craft_amount": 1

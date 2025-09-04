@@ -23,7 +23,7 @@
             "b": "WHEAT",
             "c": "AIR",
             "d": "WHEAT",
-            "e": "SUGAR"
+            "e": "sugar"
         },
         "no-order": false,
         "craft_amount": 1

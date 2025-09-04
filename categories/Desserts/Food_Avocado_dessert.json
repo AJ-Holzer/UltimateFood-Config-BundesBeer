@@ -21,7 +21,7 @@
         "materials": {
             "x": "AIR",
             "b": "Avocado",
-            "c": "SUGAR",
+            "c": "sugar",
             "d": "MILK"
         },
         "no-order": false,

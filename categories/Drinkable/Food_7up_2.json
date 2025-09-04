@@ -22,7 +22,7 @@
             "x": "AIR",
             "g": "Green_apple",
             "b": "POTION",
-            "s": "SUGAR"
+            "s": "sugar"
         },
         "no-shape": false,
         "craft_amount": 1

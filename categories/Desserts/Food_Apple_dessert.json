@@ -21,7 +21,7 @@
         "materials": {
             "x": "AIR",
             "a": "APPLE",
-            "s": "SUGAR"
+            "s": "sugar"
         },
         "no-order": true,
         "craft_amount": 2

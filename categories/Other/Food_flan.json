@@ -20,7 +20,7 @@
         ],
         "materials": {
             "e": "Egg",
-            "f": "Sugar"
+            "f": "sugar"
         },
         "no-shape": false,
         "craft_amount": 1

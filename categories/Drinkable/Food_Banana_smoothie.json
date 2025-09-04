@@ -23,7 +23,7 @@
             "b": "Banana",
             "c": "POTION",
             "m": "MILK",
-            "s": "SUGAR"
+            "s": "sugar"
         },
         "no-shape": false,
         "craft_amount": 1

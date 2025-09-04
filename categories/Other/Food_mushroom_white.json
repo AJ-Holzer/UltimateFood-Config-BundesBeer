@@ -21,7 +21,7 @@
         "materials": {
             "x": "Mushroom",
             "y": "Water_Bottle",
-            "z": "Sugar"
+            "z": "sugar"
         },
         "no-shape": false,
         "craft_amount": 1

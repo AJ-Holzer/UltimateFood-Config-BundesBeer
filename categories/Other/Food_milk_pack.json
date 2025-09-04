@@ -20,7 +20,7 @@
         ],
         "materials": {
             "x": "Milk_Bucket",
-            "y": "Sugar",
+            "y": "sugar",
             "z": "Glass_Bottle"
         },
         "no-shape": false,

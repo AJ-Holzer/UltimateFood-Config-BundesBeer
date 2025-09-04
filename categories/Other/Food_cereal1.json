@@ -22,7 +22,7 @@
             "w": "WHEAT",
             "b": "BOWL",
             "m": "MILK_BUCKET",
-            "s": "Sugar"
+            "s": "sugar"
         },
         "no-shape": false,
         "craft_amount": 1

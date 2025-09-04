@@ -20,7 +20,7 @@
         ],
         "materials": {
             "x": "AIR",
-            "s": "SUGAR",
+            "s": "sugar",
             "l": "Lemon",
             "p": "POTION"
         },

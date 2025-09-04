@@ -21,7 +21,7 @@
         "materials": {
             "s": "Strawberry",
             "c": "Milk_Bucket",
-            "b": "Sugar",
+            "b": "sugar",
             "m": "Ice"
         },
         "no-shape": false,

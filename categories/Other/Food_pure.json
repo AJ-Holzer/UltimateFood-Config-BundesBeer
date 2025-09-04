@@ -20,7 +20,7 @@
         ],
         "materials": {
             "a": "Apple",
-            "s": "Sugar",
+            "s": "sugar",
             "m": "Milk_Bucket"
         },
         "no-shape": false,

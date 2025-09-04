@@ -21,7 +21,7 @@
         "materials": {
             "x": "AIR",
             "b": "MILK",
-            "c": "SUGAR",
+            "c": "sugar",
             "d": "EGG",
             "e": "WHEAT"
         },

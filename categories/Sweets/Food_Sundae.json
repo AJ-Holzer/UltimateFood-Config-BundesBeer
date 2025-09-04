@@ -21,7 +21,7 @@
         "materials": {
             "c": "Cherry",
             "m": "Milk_Bucket",
-            "s": "Sugar"
+            "s": "sugar"
         },
         "no-shape": false,
         "craft_amount": 1

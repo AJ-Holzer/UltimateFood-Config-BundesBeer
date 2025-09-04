@@ -20,7 +20,7 @@
         ],
         "materials": {
             "g": "Grape",
-            "s": "Sugar",
+            "s": "sugar",
             "m": "Milk_Bucket"
         },
         "no-shape": false,

@@ -21,7 +21,7 @@
         "materials": {
             "m": "Milk_Bucket",
             "d": "Edible_Flower",
-            "s": "Sugar"
+            "s": "sugar"
         },
         "no-shape": false,
         "craft_amount": 1

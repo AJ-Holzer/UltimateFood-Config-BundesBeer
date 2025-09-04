@@ -22,7 +22,7 @@
             "x": "AIR",
             "b": "COCOA BEANS",
             "c": "MILK",
-            "d": "SUGAR",
+            "d": "sugar",
             "e": "WHEAT"
         },
         "no-order": true,

@@ -22,7 +22,7 @@
             "x": "AIR",
             "b": "Peach",
             "c": "WHEAT",
-            "d": "SUGAR"
+            "d": "sugar"
         },
         "no-order": true,
         "craft_amount": 2
