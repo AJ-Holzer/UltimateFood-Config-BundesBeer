@@ -1,6 +1,6 @@
 {
-    "uniqueID": "Potato_Cake",
-    "displayName": "&fPotato Cake",
+    "uniqueID": "potato_p_Cake",
+    "displayName": "&fpotato_p Cake",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -19,7 +19,7 @@
             "ppp"
         ],
         "materials": {
-            "p": "Potato",
+            "p": "potato_p",
             "a": "Apple"
         },
         "no-shape": false,

@@ -1,6 +1,6 @@
 {
-    "uniqueID": "potato_p",
-    "displayName": "&fpotato p",
+    "uniqueID": "potato_p_p",
+    "displayName": "&fpotato_p p",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -19,9 +19,9 @@
             " o "
         ],
         "materials": {
-            "p": "Potato",
+            "p": "potato_p",
             "s": "Salt",
-            "o": "Olive"
+            "o": "olive_oil"
         },
         "no-shape": false,
         "craft_amount": 1

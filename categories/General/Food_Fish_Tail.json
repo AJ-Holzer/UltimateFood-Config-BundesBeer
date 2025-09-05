@@ -1,6 +1,6 @@
 {
-    "uniqueID": "Fish_Tail",
-    "displayName": "&fFish Tail",
+    "uniqueID": "fish_p_Tail",
+    "displayName": "&ffish_p Tail",
     "description": [],
     "instantEat": false,
     "foodMaterial": "apple",

@@ -15,13 +15,12 @@
     "recipe": {
         "shape": [
             " s ",
-            "prp",
+            " r ",
             " s "
         ],
         "materials": {
-            "p": "Prawn",
             "r": "Red_pepper",
-            "s": "Skewer"
+            "s": "SALMON"
         },
         "no-shape": false,
         "craft_amount": 1

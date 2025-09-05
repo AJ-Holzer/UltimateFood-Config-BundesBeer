@@ -1,6 +1,6 @@
 {
-    "uniqueID": "baked_potatoes",
-    "displayName": "&fbaked potatoes",
+    "uniqueID": "baked_potato_pes",
+    "displayName": "&fbaked potato_pes",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",

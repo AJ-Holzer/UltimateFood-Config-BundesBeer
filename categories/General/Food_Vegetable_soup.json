@@ -21,7 +21,7 @@
         "materials": {
             "v": "Vegetable",
             "c": "Carrot",
-            "p": "Potato"
+            "p": "potato_p"
         },
         "no-shape": false,
         "craft_amount": 1

@@ -14,12 +14,12 @@
     "commands": [],
     "recipe": {
         "shape": [
-            " s ",
-            "sss",
-            " s "
+            "xxx",
+            "xxx",
+            "xxx"
         ],
         "materials": {
-            "s": "Squid"
+            "x": "AIR"
         },
         "no-shape": false,
         "craft_amount": 1

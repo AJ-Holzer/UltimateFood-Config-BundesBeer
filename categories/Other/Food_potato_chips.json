@@ -1,6 +1,6 @@
 {
-    "uniqueID": "potato_chips",
-    "displayName": "&fpotato chips",
+    "uniqueID": "potato_p_chips",
+    "displayName": "&fpotato_p chips",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -19,7 +19,7 @@
             " p "
         ],
         "materials": {
-            "p": "Potato",
+            "p": "potato_p",
             "s": "Salt"
         },
         "no-shape": false,

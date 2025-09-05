@@ -1,6 +1,6 @@
 {
-    "uniqueID": "olive_oil",
-    "displayName": "&folive oil",
+    "uniqueID": "olive_oil_oil",
+    "displayName": "&folive_oil oil",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -19,7 +19,7 @@
             " c "
         ],
         "materials": {
-            "a": "Olive",
+            "a": "olive_oil",
             "b": "Nut",
             "c": "Laurel"
         },

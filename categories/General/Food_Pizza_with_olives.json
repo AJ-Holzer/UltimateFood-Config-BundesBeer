@@ -1,6 +1,6 @@
 {
-    "uniqueID": "Pizza_with_olives",
-    "displayName": "&fPizza with olives",
+    "uniqueID": "Pizza_with_olive_oils",
+    "displayName": "&fPizza with olive_oils",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -19,7 +19,7 @@
             "ooo"
         ],
         "materials": {
-            "o": "Olive",
+            "o": "olive_oil",
             "t": "Tomato",
             "c": "Cheese"
         },

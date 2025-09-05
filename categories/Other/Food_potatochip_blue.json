@@ -1,6 +1,6 @@
 {
-    "uniqueID": "potatochip_blue",
-    "displayName": "&fpotatochip blue",
+    "uniqueID": "potato_pchip_blue",
+    "displayName": "&fpotato_pchip blue",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -19,7 +19,7 @@
             " p "
         ],
         "materials": {
-            "p": "Potato",
+            "p": "potato_p",
             "b": "Blueberry",
             "s": "Salt"
         },

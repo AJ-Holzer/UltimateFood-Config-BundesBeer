@@ -19,7 +19,7 @@
             " f "
         ],
         "materials": {
-            "f": "Fish"
+            "f": "fish_p"
         },
         "no-shape": false,
         "craft_amount": 1

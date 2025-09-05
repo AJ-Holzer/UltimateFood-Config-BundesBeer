@@ -1,6 +1,6 @@
 {
-    "uniqueID": "Olive_salad",
-    "displayName": "&fOlive salad",
+    "uniqueID": "olive_oil_salad",
+    "displayName": "&folive_oil salad",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -20,7 +20,7 @@
         ],
         "materials": {
             "c": "Cucumber",
-            "o": "olive_oil"
+            "o": "olive_oil_oil"
         },
         "no-shape": false,
         "craft_amount": 1

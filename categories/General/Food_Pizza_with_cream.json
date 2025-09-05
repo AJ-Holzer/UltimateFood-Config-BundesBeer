@@ -1,6 +1,6 @@
 {
-    "uniqueID": "Pizza_with_cream",
-    "displayName": "&fPizza with cream",
+    "uniqueID": "Pizza_with_Icecream",
+    "displayName": "&fPizza with Icecream",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -19,7 +19,7 @@
             "ccc"
         ],
         "materials": {
-            "c": "Cream",
+            "c": "Icecream",
             "t": "Tomato",
             "m": "Mushrooms"
         },

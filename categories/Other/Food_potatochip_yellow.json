@@ -1,6 +1,6 @@
 {
-    "uniqueID": "potatochip_yellow",
-    "displayName": "&fpotatochip yellow",
+    "uniqueID": "potato_pchip_yellow",
+    "displayName": "&fpotato_pchip yellow",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -19,7 +19,7 @@
             " p "
         ],
         "materials": {
-            "p": "Potato",
+            "p": "potato_p",
             "b": "Banana",
             "y": "Yellow_Pepper",
             "s": "Salt"

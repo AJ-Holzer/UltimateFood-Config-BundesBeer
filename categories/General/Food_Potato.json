@@ -1,5 +1,5 @@
 {
-    "uniqueID": "Potato",
+    "uniqueID": "potato_p",
     "displayName": "&fPotato",
     "description": [],
     "instantEat": false,
@@ -19,7 +19,7 @@
             " p "
         ],
         "materials": {
-            "p": "Potato"
+            "p": "potato_p"
         },
         "no-shape": false,
         "craft_amount": 1

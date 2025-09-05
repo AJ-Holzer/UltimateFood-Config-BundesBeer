@@ -1,6 +1,6 @@
 {
     "uniqueID": "Rice_Bowl",
-    "displayName": "&fRice_Bowl Bowl",
+    "displayName": "&fRice Bowl",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -14,13 +14,12 @@
     "commands": [],
     "recipe": {
         "shape": [
-            " r ",
-            "rir",
-            " r "
+            "xxx",
+            "xxx",
+            "xxx"
         ],
         "materials": {
-            "r": "Rice_Bowl",
-            "i": "Ingot"
+            "x": "AIR"
         },
         "no-shape": false,
         "craft_amount": 1

@@ -1,6 +1,6 @@
 {
-    "uniqueID": "fish",
-    "displayName": "&ffish",
+    "uniqueID": "fish_p",
+    "displayName": "&ffish_p",
     "description": [],
     "instantEat": false,
     "foodMaterial": "APPLE",
@@ -19,7 +19,7 @@
             " f "
         ],
         "materials": {
-            "f": "Fish"
+            "f": "fish_p"
         },
         "no-shape": false,
         "craft_amount": 1

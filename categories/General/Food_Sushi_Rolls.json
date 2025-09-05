@@ -20,7 +20,7 @@
         ],
         "materials": {
             "r": "Rice_Bowl",
-            "f": "Fish"
+            "f": "fish_p"
         },
         "no-shape": false,
         "craft_amount": 1

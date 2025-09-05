@@ -19,7 +19,7 @@
             "ccc"
         ],
         "materials": {
-            "c": "Potato"
+            "c": "potato_p"
         },
         "no-shape": false,
         "craft_amount": 1

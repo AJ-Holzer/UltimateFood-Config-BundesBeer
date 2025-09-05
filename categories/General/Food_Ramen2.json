@@ -14,12 +14,11 @@
     "commands": [],
     "recipe": {
         "shape": [
-            "nnn",
+            "   ",
             "pep",
-            "nnn"
+            "   "
         ],
         "materials": {
-            "n": "Noodles",
             "p": "PORKCHOP",
             "e": "eggplant"
         },
