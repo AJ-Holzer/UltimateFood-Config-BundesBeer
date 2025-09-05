@@ -15,13 +15,12 @@
     "recipe": {
         "shape": [
             "coc",
-            "lol",
+            " o ",
             "coc"
         ],
         "materials": {
             "c": "Cucumber",
-            "o": "Olive",
-            "l": "Lettuce"
+            "o": "olive_oil"
         },
         "no-shape": false,
         "craft_amount": 1

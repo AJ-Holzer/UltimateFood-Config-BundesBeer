@@ -19,7 +19,7 @@
             " w "
         ],
         "materials": {
-            "w": "Wheat"
+            "w": "WHEAT"
         },
         "no-shape": false,
         "craft_amount": 1

@@ -20,7 +20,7 @@
         ],
         "materials": {
             "s": "sugar",
-            "w": "Wheat",
+            "w": "WHEAT",
             "f": "Edible_Flower"
         },
         "no-shape": false,

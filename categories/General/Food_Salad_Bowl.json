@@ -15,12 +15,11 @@
     "recipe": {
         "shape": [
             "ccc",
-            "lgl",
+            " g ",
             "ccc"
         ],
         "materials": {
             "c": "Cucumber",
-            "l": "Lettuce",
             "g": "Green_Pepper"
         },
         "no-shape": false,

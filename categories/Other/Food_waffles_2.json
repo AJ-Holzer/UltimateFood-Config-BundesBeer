@@ -21,7 +21,7 @@
         "materials": {
             "b": "Bread",
             "e": "Egg",
-            "w": "Wheat"
+            "w": "WHEAT"
         },
         "no-shape": false,
         "craft_amount": 1
